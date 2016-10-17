@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_foreground_selector.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_foreground_selector.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_foreground_kitkat_selector.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_expand_material.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_expand_material_animator.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_expand_material_animator.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_foreground_kitkat_selector.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\psts_background_tab.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.jpardogo.materialtabstrip\\library\\1.1.0\\res\\drawable-v21\\psts_background_tab.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\psts_background_tab.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.jpardogo.materialtabstrip\\library\\1.1.0\\res\\drawable-v21\\psts_background_tab.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_overflow_material.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_expand_material.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_expand.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_expand.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_expand.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_expand.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_foreground_selector.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_foreground_selector.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_selector.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_selector.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_selector.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_selector.xml"
+    },
+    {
+        "merged": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_kitkat_selector.xml",
+        "source": "E:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_kitkat_selector.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_menu_button_overflow_material.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\card_kitkat_selector.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable-v21\\card_kitkat_selector.xml"
+    },
+    {
+        "merged": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\AppCode\\EasyShoppingCart\\EasyShoppingCart\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

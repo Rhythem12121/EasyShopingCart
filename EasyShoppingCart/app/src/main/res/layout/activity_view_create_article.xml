@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/status_bar_kitkat_height"
+        android:background="?colorPrimary"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginTop="@dimen/status_bar_margin_top"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ToolbarTheme"/>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        android:fitsSystemWindows="true">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:paddingTop="56dp">
+
+                <android.support.design.widget.TextInputLayout
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    app:hintTextAppearance="@style/TextAppearence.App.TextInputLayoutOrder"
+                    >
+
+                    <EditText
+                        android:id="@+id/activity_create_article_input_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Tiêu đề"
+                        android:inputType="textCapWords"
+                        android:textColor="@color/bright_foreground_inverse_material_dark"/>
+                </android.support.design.widget.TextInputLayout>
+                <!--  Name Label -->
+                <android.support.design.widget.TextInputLayout
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    app:hintTextAppearance="@style/TextAppearence.App.TextInputLayoutOrder"
+                    >
+
+                    <EditText
+                        android:id="@+id/activity_create_article_input_des"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Mô tả"
+                        android:inputType="textCapWords"
+                        android:textColor="@color/bright_foreground_inverse_material_dark"/>
+                </android.support.design.widget.TextInputLayout>
+
+                <!-- Email Label -->
+                <android.support.design.widget.TextInputLayout
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    app:hintTextAppearance="@style/TextAppearence.App.TextInputLayoutOrder"
+                    >
+
+                    <EditText
+                        android:id="@+id/activity_create_article_input_price"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Giá"
+                        android:inputType="number"
+                        android:textColor="@color/bright_foreground_inverse_material_dark"/>
+                </android.support.design.widget.TextInputLayout>
+
+                <!-- Password Label -->
+                <android.support.design.widget.TextInputLayout
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    app:hintTextAppearance="@style/TextAppearence.App.TextInputLayoutOrder"
+                    >
+
+                    <EditText
+                        android:id="@+id/activity_create_article_input_phonenumber"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Số điện thoại"
+                        android:inputType="number"/>
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    app:hintTextAppearance="@style/TextAppearence.App.TextInputLayoutOrder"
+                    >
+
+                    <EditText
+                        android:id="@+id/activity_create_article_input_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Địa chỉ"
+                        android:inputType="textCapWords"/>
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    app:hintTextAppearance="@style/TextAppearence.App.TextInputLayoutOrder"
+                    >
+                    <EditText
+                        android:id="@+id/activity_create_article_link"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Link Image"
+                        android:inputType="textCapWords"/>
+                </android.support.design.widget.TextInputLayout>
+                <!-- Signup Button -->
+                <Button
+                    android:id="@+id/activity_create_article_btn_create"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@color/md_indigo_700"
+                    android:padding="12dp"
+
+                    android:text="Đăng bài"
+                    android:textColor="@color/md_white_1000"
+                    android:textStyle="bold"/>
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</FrameLayout>

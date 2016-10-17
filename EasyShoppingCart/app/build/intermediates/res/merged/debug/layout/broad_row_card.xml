@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:drawable/dialog_holo_light_frame">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:gravity="bottom"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        >
+
+        <ImageView
+            android:id="@+id/broad_row_card_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic"
+            android:scaleType="centerCrop"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_gravity="left|bottom"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp">
+
+            <TextView
+                android:id="@+id/broad_row_card_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:text="Nguyễn Tiến Đông"
+                android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+                android:textStyle="bold"/>
+
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/broad_row_card_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="Mô tả sản phẩm"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/md_grey_500"
+        android:textStyle="italic"/>
+    <TextView
+        android:id="@+id/broad_row_card_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:text="Phone :"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/md_black_1000"
+        android:textStyle="bold|italic"/>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/actions_padding"
+        android:paddingLeft="@dimen/actions_padding_left"
+        android:paddingRight="@dimen/actions_padding_left">
+
+        <TextView
+            android:id="@+id/broad_row_card_message"
+            style="@style/card.native.actions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?android:selectableItemBackground"
+            android:text="Nhắn tin"/>
+
+
+        <TextView
+            android:id="@+id/broad_row_card_call"
+            style="@style/card.native.actions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?android:selectableItemBackground"
+            android:text="Gọi điện"
+            android:textColor="@color/md_orange_500"/>
+
+    </LinearLayout>
+
+</LinearLayout>

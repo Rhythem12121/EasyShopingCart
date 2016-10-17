@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Easy Shopping</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="activity_view_login">Login</string>
+    <string name="activity_view_signup">Create Account</string>
+    <string name="title_activity_view_detail_product">DetailProduct</string>
+
+    <string name="title_activity_view_login">Login</string>
+    <string name="title_activity_view_signup">SignUp</string>
+    <string name="title_activity_view_loading">EasyShopping</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_search_advance">Tìm kiếm nâng cao</string>
+
+    <string name="product_prompt">Chọn danh mục sản phẩm</string>
+
+    <string-array name="product_arrays">
+        <item>Điện thoại</item>
+        <item>Laptop</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string name="price_prompt">Chọn gía tiền sản phẩm</string>
+
+    <string-array name="price_arrays">
+        <item>Dưới 5.000.000</item>
+        <item>5.000.000 đến 10.000.000</item>
+        <item>trên 10.000.000</item>
+
+    </string-array>
+    <string name="produce_prompt">Chọn hãng sản xuất</string>
+    <string-array name="produce_arrays">
+        <item>Apple</item>
+        <item>SamSung</item>
+        <item>Other</item>
+
+    </string-array>
+    <string name="title_activity_view_cart">Giỏ hàng</string>
+    <string name="title_activity_view_order">Thông tin đặt hàng</string>
+    <string name="title_activity_view_history">Lịch sử mua hàng</string>
+    <string name="title_activity_view_broad">Bảng tin mua hàng</string>
+    <string name="title_activity_demo_webservice">DemoWebservice</string>
+    <string name="title_activity_view_create_article">Đăng bài</string>
+</resources>

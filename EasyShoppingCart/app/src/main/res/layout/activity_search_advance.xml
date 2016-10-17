@@ -1,0 +1,195 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/status_bar_kitkat_height"
+        android:background="?colorPrimary"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginTop="@dimen/status_bar_margin_top"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ToolbarTheme"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:weightSum="8">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="3"
+                android:text="Từ khóa  : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="15sp"
+                android:textStyle="bold|italic"
+                />
+
+            <EditText
+                android:id="@+id/advancesearch_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="6"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="3"
+                android:text="Danh mục : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="15sp"
+                android:textStyle="bold|italic"
+                />
+
+            <Spinner
+                android:id="@+id/advancesearch_spinnercatalog"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="6"
+                android:entries="@array/product_arrays"
+                android:prompt="@string/product_prompt"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="3"
+                android:text="Giá tiền : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="15sp"
+                android:textStyle="bold|italic"
+                />
+
+            <Spinner
+                android:id="@+id/advancesearch_spinnerprice"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="6"
+                android:entries="@array/price_arrays"
+                android:prompt="@string/price_prompt"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="3"
+                android:text="Hãng sản xuất:"
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="15sp"
+                android:textStyle="bold|italic"
+                />
+
+            <Spinner
+                android:id="@+id/advancesearch_spinnerproduce"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="6"
+                android:entries="@array/produce_arrays"
+                android:prompt="@string/produce_prompt"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/fragment_advancesearch_btnsearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/button_selector"
+            android:text="Tìm kiếm"
+            android:textColor="@android:color/white"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/ribbon_subtitle"
+            android:gravity="left|center_vertical"
+            android:padding="10dp"
+            android:text="Kết quả"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textColor="@color/md_white_1000"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="380dp"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/search_my_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            />
+    </LinearLayout>
+
+</FrameLayout>

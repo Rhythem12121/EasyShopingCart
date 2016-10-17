@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.videumcorp.android.tabmain"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity
+            android:name="com.code.view.ViewDetailProductActivity"
+            android:label="@string/title_activity_view_detail_product">
+        </activity>
+        <activity
+            android:name="com.code.view.ViewSignupActivity"
+            android:label="@string/title_activity_view_signup">
+        </activity>
+        <activity
+            android:name="com.code.view.ViewLoadingActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_view_loading">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.code.view.ViewLoginActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.code.view.SearchAdvanceActivity"
+            android:label="@string/title_activity_search_advance"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity
+            android:name="com.code.view.ViewCartActivity"
+            android:label="@string/title_activity_view_cart"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity
+            android:name="com.code.view.ViewOrderActivity"
+            android:label="@string/title_activity_view_order"
+            android:parentActivityName="com.code.view.ViewCartActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.code.view.ViewCartActivity"/>
+        </activity>
+        <activity
+            android:name="com.code.view.ViewHistoryActivity"
+            android:label="@string/title_activity_view_history">
+        </activity>
+        <activity
+            android:name="com.code.view.ViewBroadActivity"
+            android:label="@string/title_activity_view_broad"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.videumcorp.android.tabmain.MainActivity"/>
+        </activity>
+        <activity
+            android:name="com.code.view.DemoWebservice"
+            android:label="@string/title_activity_demo_webservice">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="com.code.view.ViewCreateArticle"
+            android:label="@string/title_activity_view_create_article"
+            android:parentActivityName="com.code.view.ViewBroadActivity">
+        </activity>
+    </application>
+
+</manifest>

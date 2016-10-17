@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_5caac8daf73ba38953bbaa359ae4f1fcba0e75ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c3334fb742bfd8a16a6071dc4d0420a5f0adfece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_05ab85eda1abadfeb617e4b1811b82705c22b2f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_51c5c858a2876c2a3daef2e0a0611e02cb18442f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c6dea24c66e6fce5ca4208fffa06f029b0c3739f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.github.igortrncic.dotted-progress-bar\library\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e8ea16f46aa9f942b28999b5969353ae2c6283e6">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.igortrncic.dotted-progress-bar-library-1.0.0_89647d119dfac873938f8d8c3e691f37a39123d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.gabrielemariotti.cards-cardslib-core-2.1.0_95c1254794d07bf5cfec7896d114f1162d317162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="22a3e0f024f4f209e25f3667661116c7f738291d">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f66cc2f83843c86458c563fe3e7df0a31f060d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4c024930f0d7a61e97c5b369507de8583e4b9113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.github.florent37\materialviewpager\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e021a1a8f5600d1924bd69cd2b007c8d118d3ea7">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.florent37-materialviewpager-1.2.0_0389b19daf2368047b9ee0a9353957f300fde29d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_1b8c64bf3e5575b73a7e653c72966871a42d0cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_19f50ac933bc07f8b515944a85eeca62314c9ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_f22b8e6a208bfb80674c5d429b5e7a31d833d347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c80c0ad1574581b0eb7e2dc6f8a46a9182d07d57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wall\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_91fdf270c6ad37fa98bcd83d85ff278866e8f286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_bfc3078b5008b18d60bff82c953d8db381098191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_5500dfc3008e7b438af18d11aa81ce63f9061443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6ac38dda2b397cfd25fd4c8491aa90c75a1e32c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jpardogo.materialtabstrip-library-1.1.0_9b27fe436a5e003214cfcbe3e090d44c30841d89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a0a94f39de378f5bdcbe663dd7672c4a1043e593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7a7ed171c11168c0589d0be891456274d1447532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wall\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4cc16bc9ca243e0cecd165fc2a9086af650553b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ksoichiro-android-observablescrollview-1.6.0_8955ce0d0168435da3b5edaa7dab7433bfb328a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_eff2228e46edbe678811070eb3d8f70c9bf8b181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02ed95ea08791075a6cfea7c06cb24721193f1ea">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_030a0c41104baf0f8050537bf339238b39dbfbe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.0.0-jar-with-dependencies_652eebd0c3de89f2875c3122a15c9ae9eceecd7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wall\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.7\ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1\kenburnsview-1.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\kenburnsview-1.0.7_2cfe80d3c02b076adb2bd70f32df1b00cb4d8e07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6ae808403d9b44c24dbdf22feef4d7861b4afda5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3351e7e9aa4183b283d46fe397eba8f2b4ce478d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AppCode\EasyShoppingCart\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9ec1d846000db2b979dac2159584f027195a8174">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.gabrielemariotti.cards-cardslib-cards-2.1.0_41f16e2deab3537a2164d0a111f2b5797c7364c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wall\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\AppCode\EasyShoppingCart\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_5979dee290eddd11372912e5d613eda04e2bf269\classes.dex" />
+    </item>
+
+</items>

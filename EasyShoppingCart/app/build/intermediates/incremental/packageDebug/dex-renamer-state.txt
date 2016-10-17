@@ -1,0 +1,7 @@
+#Mon Oct 17 20:33:38 ICT 2016
+base.0=E\:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f66cc2f83843c86458c563fe3e7df0a31f060d1b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_030a0c41104baf0f8050537bf339238b39dbfbe0\\classes.dex
+base.1=E\:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_030a0c41104baf0f8050537bf339238b39dbfbe0
+file.0=E\:\\AppCode\\EasyShoppingCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f66cc2f83843c86458c563fe3e7df0a31f060d1b\\classes.dex
